@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hellp from dcl!");
+    println!("Hello from dcl!");
 }
