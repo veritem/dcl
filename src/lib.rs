@@ -1,2 +1,2 @@
 //TODO: update this library
-mod lib {}
+pub mod lib {}
