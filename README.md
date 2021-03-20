@@ -8,7 +8,7 @@ File system cleaner. you have never thought you needed
 Built with Rust
 
 
-V1 Checklist
+<!-- V1 Checklist -->
 <!--
 - [ ] Can execute the ci
 - [ ] Can print help command
